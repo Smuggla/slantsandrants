@@ -8,6 +8,4 @@ This is our first of many pages!
 
 Will get this rocking soon!
 
-Follow us on
-[Twitter]: https://twitter.com/slantsandrants_
-[jekyll-docs]: https://jekyllrb.com/docs/home
+Follow us on Twitter!
